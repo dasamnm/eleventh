@@ -7,7 +7,11 @@ Feature: Wiki
     And click on search button
     Then results should be displayed
     
+
+    Scenario: line by second branch
+
     Scenario: line by first branch
+
     
     Scenario: new scenario added by another
     
