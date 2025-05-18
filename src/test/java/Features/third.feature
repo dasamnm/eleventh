@@ -7,5 +7,5 @@ Feature: Wiki
     And click on search button
     Then results should be displayed
     
-    Scenario: merge conflict
+    Scenario: line by first branch
     
