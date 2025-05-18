@@ -9,3 +9,5 @@ Feature: Wiki
     
     Scenario: line by first branch
     
+    Scenario: new scenario added by another
+    
