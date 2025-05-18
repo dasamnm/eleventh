@@ -9,3 +9,5 @@ Feature: Wiki
     
     Scenario: merge conflict
     
+    Scenario: new scenario added by another
+    
