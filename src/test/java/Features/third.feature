@@ -8,4 +8,4 @@ Feature: Wiki
     Then results should be displayed
     
     Scenario: merge conflict
-    Given merge conflict
+    
