@@ -7,7 +7,7 @@ Feature: Wiki
     And click on search button
     Then results should be displayed
     
-    Scenario: merge conflict
+    Scenario: line by second branch
     
     Scenario: new scenario added by another
     
